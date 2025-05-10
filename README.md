@@ -104,18 +104,15 @@ The device requires calibration with reference glucose values:
 
 ## 👥 Team Members
 
-**Team 17 | SBME 2026**  
-<div align="center">
+**Team 17 | SBME 2026**
 
 *Developed as part of the Medical Equipment Design Course*
 
 - Mostafa Mousa
-- Amaar Yasser  
+- Amaar Yasser
 - Ahmed Adeil
 - Zeyad Wael
 - Hussein Mohamed
-
-</div>
 
 ---
 
