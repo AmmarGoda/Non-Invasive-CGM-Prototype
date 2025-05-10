@@ -102,6 +102,21 @@ The device requires calibration with reference glucose values:
    - Format: `Avg Optical: [value], Raw Optical: [value], Temperature: [value] C, Est. Glucose: [value] mg/dL`
    - Monitor trends rather than absolute values for best results
 
+## 👥 Team Members
+
+**Team 17 | SBME 2026**  
+<div align="center">
+
+*Developed as part of the Medical Equipment Design Course*
+
+- Mostafa Mousa
+- Amaar Yasser  
+- Ahmed Adeil
+- Zeyad Wael
+- Hussein Mohamed
+
+</div>
+
 ---
 
 **Disclaimer**: This device is a prototype for educational and research purposes only. It should not be used for medical diagnosis or treatment decisions. Always consult healthcare professionals for managing diabetes or other glucose-related conditions.
